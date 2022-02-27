@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Adipiscing",
+        "price": "10.99",
+        "id": "adipiscing",
+        "sku": "ADI",
+        "image": "/images/products/ou-plant-0.png",
+        "description": "Description Adipiscingipsum dolor sit.",
+        "categories": "exterieure,  plante"
+    },
+    {
+        "title": "Pot grey",
+        "price": "39.99",
+        "id": "pot-grey",
+        "sku": "POT",
+        "image": "/images/products/ambiance-in-0.png",
+        "description": "Description Pot grey ipsum dolor descripte.",
+        "categories": "interieure,  mobilier"
+    },
+    {
+        "title": "Pot de terre",
+        "price": "39.99",
+        "id": "pot-de-terre",
+        "sku": "POTT",
+        "image": "/images/products/in-plant-2.png",
+        "description": "Description Pot de terre greyipsum dolor descripte.",
+        "categories": "interieure,  mobilier"
+    },
+    {
+        "title": "Raptor",
+        "price": "20.99",
+        "id": "raptor",
+        "sku": "RAP",
+        "image": "images/products/in-plant-0.png",
+        "description": "Description Raptor dolor descripte.",
+        "categories": "interieure,  plante"
+    },
+    {
+        "title": "Table",
+        "price": "50.99",
+        "id": "table",
+        "sku": "TAB",
+        "image": "/images/products/ambiance-out-1.png",
+        "description": "Description Table greyipsum dolor descripte.",
+        "categories": "exterieure,  mobilier"
+    },
+    {
+        "title": "Tabouret",
+        "price": "45.99",
+        "id": "tabouret",
+        "sku": "TABO",
+        "image": "/images/products/ambiance-in-1.png",
+        "description": "Description Tabouret greyipsum dolor descripte.",
+        "categories": "interieure,  mobilier"
+    },
+    {
+        "title": "Longtmar",
+        "price": "10.99",
+        "id": "longtmar",
+        "sku": "LON",
+        "image": "/images/products/in-plant-1.png",
+        "description": "Description Longtmar greyipsum dolor descripte.",
+        "categories": "interieure, plante"
+    }
+
+]
