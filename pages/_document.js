@@ -29,9 +29,9 @@ class MyDocument extends Document {
           <Main />
           <NextScript />         
           
-          {process.env.NEXT_PUBLIC_SNIPCART_API_KEY}
+          
           <script async src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js" />
-          <div hidden id="snipcart" toto data-api-key="Zjk4ZjI4Y2ItMzY5OS00MDM3LTljNTEtY2Y1MTFkYTE5MTk5NjM2NjY1NDcwNTQxMDc2Mjcz" /> 
+          <div hidden id="snipcart" toto data-api-key={process.env.NEXT_PUBLIC_SNIPCART_API_KEY} /> 
 
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" async/>
           
